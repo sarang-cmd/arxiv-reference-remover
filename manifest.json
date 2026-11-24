@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "arXiv Reference Remover",
+  "version": "1.0.0",
+  "description": "Remove inline citations and the bibliography from arXiv HTML pages with one click.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Remove references from this page"
+  }
+}

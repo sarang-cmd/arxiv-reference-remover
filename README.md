@@ -7,6 +7,7 @@
   <a href="https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/"><img src="https://img.shields.io/badge/Edge-compatible-0F6CBD?logo=microsoftedge&amp;logoColor=white" alt="Edge compatible"></a>
   <a href="https://arxiv.org/"><img src="https://img.shields.io/badge/target-arXiv%20HTML-B31B1B" alt="Targets arXiv HTML"></a>
   <a href="#install"><img src="https://img.shields.io/badge/build-none-brightgreen" alt="No build step"></a>
+  <a href="https://github.com/sarang-cmd/arxiv-reference-remover/releases/latest"><img src="https://img.shields.io/github/v/release/sarang-cmd/arxiv-reference-remover" alt="Latest release"></a>
 </p>
 
 # arXiv Reference Remover
@@ -19,6 +20,8 @@ there is no popup UI.
 `manifest-v3` · `javascript` · `bibliography` · `academic`
 
 ## Install
+
+Download the [v1.0.0 release ZIP](https://github.com/sarang-cmd/arxiv-reference-remover/releases/tag/v1.0.0) and unzip it, or work from a clone of this repository. Then:
 
 1. Open `chrome://extensions` (or `edge://extensions` in Edge).
 2. Enable **Developer mode**.
